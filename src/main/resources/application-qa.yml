@@ -1,0 +1,6 @@
+server:
+  port: 8092
+logging:
+  file:
+    name: logs/application-qa.log
+

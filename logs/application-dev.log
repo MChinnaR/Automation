@@ -1,0 +1,18 @@
+2023-09-07 23:04:30.807  INFO 19792 --- [restartedMain] com.automation.AutomationApplication     : Starting AutomationApplication using Java 17.0.7 on Manju with PID 19792 (D:\Chinna\Java\Automation\target\classes started by manju in D:\Chinna\Java\Automation)
+2023-09-07 23:04:30.809 DEBUG 19792 --- [restartedMain] com.automation.AutomationApplication     : Running with Spring Boot v2.7.15, Spring v5.3.29
+2023-09-07 23:04:30.810  INFO 19792 --- [restartedMain] com.automation.AutomationApplication     : The following 1 profile is active: "dev"
+2023-09-07 23:04:30.869  INFO 19792 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-09-07 23:04:30.871  INFO 19792 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-09-07 23:04:31.518  INFO 19792 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8091 (http)
+2023-09-07 23:04:31.525  INFO 19792 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-09-07 23:04:31.525  INFO 19792 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.79]
+2023-09-07 23:04:31.570  INFO 19792 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-09-07 23:04:31.570  INFO 19792 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 697 ms
+2023-09-07 23:04:31.815  INFO 19792 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-09-07 23:04:31.845  INFO 19792 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8091 (http) with context path ''
+2023-09-07 23:04:31.854  INFO 19792 --- [restartedMain] com.automation.AutomationApplication     : Started AutomationApplication in 1.392 seconds (JVM running for 2.211)
+2023-09-07 23:04:31.857 DEBUG 19792 --- [restartedMain] com.automation.controller.AWSController  : Debug message
+2023-09-07 23:04:31.857  INFO 19792 --- [restartedMain] com.automation.controller.AWSController  : Info message
+2023-09-07 23:04:31.857 ERROR 19792 --- [restartedMain] com.automation.controller.AWSController  : Error message
+2023-09-07 23:05:18.878  INFO 19792 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-09-07 23:05:18.893  INFO 19792 --- [Thread-5] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]

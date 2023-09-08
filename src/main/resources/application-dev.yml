@@ -1,0 +1,11 @@
+server:
+  port: 8091
+logging:
+  level:
+    root: INFO
+    '[com.automation]': DEBUG
+    file: DEBUG
+  file:
+    name: logs/application-dev.log
+  pattern:
+    console: '%d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n'

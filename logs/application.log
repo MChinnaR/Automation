@@ -1,0 +1,2 @@
+2023-09-07 23:00:59.650  INFO 14060 --- [RMI TCP Connection(4)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2023-09-07 23:00:59.668  INFO 14060 --- [RMI TCP Connection(4)-127.0.0.1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]

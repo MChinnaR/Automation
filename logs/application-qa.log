@@ -1,0 +1,35 @@
+2023-09-07 23:05:18.949  INFO 19792 --- [restartedMain] com.automation.AutomationApplication     : Starting AutomationApplication using Java 17.0.7 on Manju with PID 19792 (D:\Chinna\Java\Automation\target\classes started by manju in D:\Chinna\Java\Automation)
+2023-09-07 23:05:18.950 DEBUG 19792 --- [restartedMain] com.automation.AutomationApplication     : Running with Spring Boot v2.7.15, Spring v5.3.29
+2023-09-07 23:05:18.950  INFO 19792 --- [restartedMain] com.automation.AutomationApplication     : The following 1 profile is active: "qa"
+2023-09-07 23:05:19.069  INFO 19792 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8092 (http)
+2023-09-07 23:05:19.070  INFO 19792 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-09-07 23:05:19.071  INFO 19792 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.79]
+2023-09-07 23:05:19.088  INFO 19792 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-09-07 23:05:19.089  INFO 19792 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 137 ms
+2023-09-07 23:05:19.146  INFO 19792 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-09-07 23:05:19.156  INFO 19792 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8092 (http) with context path ''
+2023-09-07 23:05:19.160  INFO 19792 --- [restartedMain] com.automation.AutomationApplication     : Started AutomationApplication in 0.234 seconds (JVM running for 49.516)
+2023-09-07 23:05:19.162  INFO 19792 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2023-09-07 23:05:19.163 DEBUG 19792 --- [restartedMain] com.automation.controller.AWSController  : Debug message
+2023-09-07 23:05:19.163  INFO 19792 --- [restartedMain] com.automation.controller.AWSController  : Info message
+2023-09-07 23:05:19.163 ERROR 19792 --- [restartedMain] com.automation.controller.AWSController  : Error message
+2023-09-07 23:06:41.351  INFO 19792 --- [RMI TCP Connection(4)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2023-09-07 23:06:41.360  INFO 19792 --- [RMI TCP Connection(4)-127.0.0.1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-09-07 23:08:21.356  INFO 22844 --- [restartedMain] com.automation.AutomationApplication     : Starting AutomationApplication using Java 17.0.7 on Manju with PID 22844 (D:\Chinna\Java\Automation\target\classes started by manju in D:\Chinna\Java\Automation)
+2023-09-07 23:08:21.357 DEBUG 22844 --- [restartedMain] com.automation.AutomationApplication     : Running with Spring Boot v2.7.15, Spring v5.3.29
+2023-09-07 23:08:21.358  INFO 22844 --- [restartedMain] com.automation.AutomationApplication     : The following 1 profile is active: "qa"
+2023-09-07 23:08:21.410  INFO 22844 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-09-07 23:08:21.410  INFO 22844 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-09-07 23:08:22.010  INFO 22844 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8092 (http)
+2023-09-07 23:08:22.016  INFO 22844 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-09-07 23:08:22.016  INFO 22844 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.79]
+2023-09-07 23:08:22.062  INFO 22844 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-09-07 23:08:22.063  INFO 22844 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 652 ms
+2023-09-07 23:08:22.290  INFO 22844 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-09-07 23:08:22.319  INFO 22844 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8092 (http) with context path ''
+2023-09-07 23:08:22.327  INFO 22844 --- [restartedMain] com.automation.AutomationApplication     : Started AutomationApplication in 1.297 seconds (JVM running for 1.906)
+2023-09-07 23:08:22.329 DEBUG 22844 --- [restartedMain] com.automation.controller.AWSController  : Debug message
+2023-09-07 23:08:22.329  INFO 22844 --- [restartedMain] com.automation.controller.AWSController  : Info message
+2023-09-07 23:08:22.329 ERROR 22844 --- [restartedMain] com.automation.controller.AWSController  : Error message
+2023-09-07 23:09:26.841  INFO 22844 --- [RMI TCP Connection(3)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2023-09-07 23:09:26.854  INFO 22844 --- [RMI TCP Connection(3)-127.0.0.1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
